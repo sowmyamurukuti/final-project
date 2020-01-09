@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Telecom app
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: admin
+Implementation-Vendor-Id: org.deloitte.telecom
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/telecom-app
+Created-By: Maven Integration for Eclipse
+
